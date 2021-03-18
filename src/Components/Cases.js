@@ -132,14 +132,6 @@ function Cases({ id }) {
           )
         )}
       </div>
-      {newGet.map(({ id, dateTime, com, postedBy, createdUser }) => (
-        <DispalyComent
-          dateTime={dateTime}
-          com={com}
-          postedBy={postedBy}
-          createdUser={createdUser}
-        />
-      ))}
     </>
   );
 }
