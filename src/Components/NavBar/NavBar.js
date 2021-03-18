@@ -77,6 +77,15 @@ function NavBar() {
             <Link to="/case" style={{ textDecoration: "none", color: "black" }}>
               <div className="navtext">CALL</div>
             </Link>
+            <Link to="/case" style={{ textDecoration: "none", color: "black" }}>
+              <div className="navtext">CALL</div>
+            </Link>
+            <Link to="/case" style={{ textDecoration: "none", color: "black" }}>
+              <div className="navtext">CALL</div>
+            </Link>
+            <Link to="/case" style={{ textDecoration: "none", color: "black" }}>
+              <div className="navtext">CALL</div>
+            </Link>
           </div>
           {/* <div className="sidebar">Menu</div> */}
           <Link to="/signup">
